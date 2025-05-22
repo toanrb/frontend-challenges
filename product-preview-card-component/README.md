@@ -30,6 +30,8 @@ Users should be able to:
 - [Live Site URL](https://toanrb.github.io/frontend-challenges/product-preview-card-component)
 - [Solution URL](https://github.com/toanrb/frontend-challenges/tree/master/product-preview-card-component)
 
+## My process
+
 ### Built with
 
 - Semantic HTML5 markup
