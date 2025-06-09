@@ -7,7 +7,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./screenshot.png)
 
 
-### Links
+## Links
 
 - [Live Site URL](https://toanrb.github.io/frontend-challenges/qr-code-component)
 - [Solution URL](https://github.com/toanrb/frontend-challenges/tree/master/qr-code-component)
