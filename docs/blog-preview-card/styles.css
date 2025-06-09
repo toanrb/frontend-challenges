@@ -22,9 +22,9 @@ body {
 
 .blog-preview-card {
 	background: white;
-	border: 1px solid black;
+	border: 0.1rem solid black;
 	border-radius: 1em;
-	max-width: 300px;
+	max-width: 30rem;
 	padding: 1.5em;
 	box-shadow: 0.5em 0.5em var(--gray-950);
 	margin: 0 0.5em;
@@ -67,5 +67,5 @@ body {
 }
 
 .author img {
-	width: 30px;
+	width: 3rem;
 }
