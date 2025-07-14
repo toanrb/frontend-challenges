@@ -11,7 +11,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - [Live Site URL](https://toanrb.github.io/frontend-challenges/social-links-profile)
-- [Solution URL](https://github.com/toanrb/frontend-challenges/tree/social-links-profile)
+- [Solution URL](https://github.com/toanrb/frontend-challenges/tree/master/social-links-profile)
 
 ## What I learned
 

@@ -10,7 +10,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Links
 
 - [Live Site URL](https://toanrb.github.io/frontend-challenges/recipe-page)
-- [Solution URL](https://github.com/toanrb/frontend-challenges/tree/recipe-page)
+- [Solution URL](https://github.com/toanrb/frontend-challenges/tree/master/recipe-page)
 
 ## Built with
 
